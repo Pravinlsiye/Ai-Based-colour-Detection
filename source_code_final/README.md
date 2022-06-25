@@ -13,7 +13,8 @@ RP Checker is a site connectivity checker utility. It takes one or more website 
 
 2. Install the requirements
 
-``` python -m pip install -r requirements.txt
+```
+python -m pip install -r requirements.txt
 ```
 
 ## Run the Project
