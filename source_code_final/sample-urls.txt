@@ -1,4 +1,1 @@
-python.org
-pypi.org
-docs.python.org
-peps.python.org
+https://pravinlsimpleportfolio.netlify.app/
